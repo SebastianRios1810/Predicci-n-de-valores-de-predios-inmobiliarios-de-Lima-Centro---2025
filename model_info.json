@@ -1,0 +1,45 @@
+{
+  "mejor_modelo": "Random Forest",
+  "metricas": {
+    "R2": 0.9704,
+    "MAE": 11781.21,
+    "RMSE": 255754.38,
+    "MAPE": 19.9
+  },
+  "num_features": [
+    "area_terreno",
+    "area_construida",
+    "area_total_construida",
+    "area_comun_terreno",
+    "area_comun_construida",
+    "area_comun_total",
+    "area_suma",
+    "pisos",
+    "edad_predio",
+    "ratio_construido",
+    "pct_propiedad",
+    "antiguedad_propiedad"
+  ],
+  "cat_features": [
+    "uso_macro",
+    "material_predio",
+    "tipo_propietario"
+  ],
+  "all_features": [
+    "area_terreno",
+    "area_construida",
+    "area_total_construida",
+    "area_comun_terreno",
+    "area_comun_construida",
+    "area_comun_total",
+    "area_suma",
+    "pisos",
+    "edad_predio",
+    "ratio_construido",
+    "pct_propiedad",
+    "antiguedad_propiedad",
+    "uso_macro",
+    "material_predio",
+    "tipo_propietario"
+  ]
+}
